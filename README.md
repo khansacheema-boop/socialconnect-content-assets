@@ -21,3 +21,6 @@ This repository contains all creative assets created for Week 2 of the Social Co
 
 ## Campaign Goal
 500 downloads, 8,000 reach, 4% engagement rate in 3 weeks.
+> **Note:** This project was completed as part of a digital marketing internship assignment.  
+> All performance metrics (reach, engagement, CTR, downloads) are simulated for educational purposes.  
+> No real ad spend or live app was used.
